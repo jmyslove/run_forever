@@ -5,4 +5,6 @@ b = np.array([9,6])
 
 c = a * b
 
+
+printf("this is master")
 print(c)
